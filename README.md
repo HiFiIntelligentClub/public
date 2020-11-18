@@ -1,2 +1,2 @@
-# public
+# Public
 Public folder. Project loader.
