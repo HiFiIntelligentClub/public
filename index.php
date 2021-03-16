@@ -30,7 +30,7 @@ require('/home/EDRO.SetOfTools/System/7.Templates/0.strKIIM.Template.php');
 
 require_once('/home/EDRO.SetOfTools/System/3.Buffer/1.EDRO_Buffering.php');
 
-$strEDRO=new EDRO();
+$strEDRO=new EDRO:strHTML();
 
 echo$strEDRO;
 /*
